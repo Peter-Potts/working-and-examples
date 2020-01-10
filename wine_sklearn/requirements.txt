@@ -1,0 +1,10 @@
+scikit-learn
+
+pandas
+
+matplotlib
+scipy # needed for beta dist plot
+
+seaborn
+
+
