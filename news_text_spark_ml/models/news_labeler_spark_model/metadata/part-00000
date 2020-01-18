@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.IndexToString","timestamp":1579313972456,"sparkVersion":"2.4.4","uid":"idxToStr_f195f3e5c1e2","paramMap":{"labels":["Rugby Union","World News","Rugby League","Cricket","Soccer Football","AFL","Athletics","Business"],"inputCol":"prediction","outputCol":"predictionLabel"},"defaultParamMap":{"outputCol":"idxToStr_f195f3e5c1e2__output"}}
