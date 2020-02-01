@@ -10,4 +10,4 @@ The file structure is:
 - [lotr_0_text_extract.ipynb](./lotr_0_text_extract.ipynb) - Extract / Tokenize / Prepare the data.
 - [lotr_1_train_model.ipynb](./lotr_1_train_model.ipynb) - Build and Train the model
 - [lotr_2_predict_text.ipynb](./lotr_2_predict_text.ipynb) - Use the model 
-   to predict new text, and generate a new _Fellowship_ chapter.
+   to predict new text, and generate a new (although somewhat nonsensical) _Fellowship_ chapter.
